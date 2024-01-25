@@ -79,22 +79,22 @@ def main():
 
 x = 10
 employee = {
-    "id" : [1111, 1112],
-    "name" : ["Alex", "Zavi"],
-    "age" : [20, 30],
-    "department" : ["finance", "hr"]
+    "id" : [],
+    "name" : [],
+    "age" : [],
+    "department" : []
 }
 
 grad_student = {
-    "id" : [1111, 1110],
-    "name" : ["Alex", "Bummy"],
-    "age" : [20, 18],
-    "email" : ["A@cmail.com", "BU@cmail.com"]
+    "id" : [],
+    "name" : [],
+    "age" : [],
+    "email" : []
 }
 
 department = {
-    "name" : ["finance", "sales"],
-    "budget": [20000, 300]
+    "name" : [],
+    "budget": []
 }
 
 df = pd.DataFrame(employee)
