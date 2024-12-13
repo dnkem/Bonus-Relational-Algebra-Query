@@ -1,4 +1,4 @@
-Developer Name: Danielle Nkem
+Developer Name: Danielle
 
 Program Title: Relational Algebra Query
 
